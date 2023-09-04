@@ -20,7 +20,7 @@ This bot is designed to perform various fun and useful tasks within our Discord 
 ## Usage
 
 1. **Invite the Bot**:
-   - To add this bot to your Discord server, click [here](https://discord.gg/vdYnyuZB).
+   - To add this bot to your Discord server, click [here](https://discord.gg/Y4vSjZVa).
    
 2. **Commands**:
    - Use `/vote` to carryout voting.
@@ -48,7 +48,9 @@ If you want to host your own instance of this bot, follow these steps:
 3. Create a `config.json` file in the project directory and add your Discord bot token:
 
    ```json
-   BOT_TOKEN= put your token
+    "token": "your-token-goes-here",
+    "clientId": "your-application-id-goes-here",
+    "guildId": "your-server-id-goes-here"
    ```
 
 4. Start the bot:
