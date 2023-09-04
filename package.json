@@ -1,0 +1,13 @@
+{
+  "name": "secure-vote-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
