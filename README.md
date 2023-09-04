@@ -2,10 +2,11 @@
 
 
 # My Discord Bot
-``````
+```
 
-My Discord Bot is a simple Discord bot created using Node.js and the Discord.js library. This bot is designed to perform various fun and useful tasks within our Discord server.
-```````
+My Discord Bot is a simple Discord bot created using Node.js and the Discord.js library. 
+This bot is designed to perform various fun and useful tasks within our Discord server.
+```
 
 
 ## Features
